@@ -5,7 +5,7 @@ layout: default
 # About Me
 Welcome to my website! I am a dedicated and passionate researcher specializing in data analysis, machine learning, and model training using Python and R. Currently, I work as a Research Data Services Specialist at [GSU Library](lib.gsu.edu), where I support various research initiatives and provide expertise in data manipulation and analysis.
 
-# Publications
+# Publications 📖
 ## Journal Articles
 - [Article Name](link-to-article)
 
@@ -13,7 +13,7 @@ Welcome to my website! I am a dedicated and passionate researcher specializing i
 - Title of Conference Paper
 - Title of Conference Paper
 
-# Teaching
+# Teaching 🧑‍🏫
 I am committed to providing high-quality education and have designed and taught various courses and workshops, including:
 - Data Analysis with Python and R
 - Introduction to Machine Learning
