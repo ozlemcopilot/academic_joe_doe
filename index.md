@@ -2,122 +2,35 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About Me
+Welcome to my website! I am a dedicated and passionate researcher specializing in data analysis, machine learning, and model training using Python and R. Currently, I work as a Research Data Services Specialist at [GSU Library](lib.gsu.edu), where I support various research initiatives and provide expertise in data manipulation and analysis.
 
-[Link to another page](./another-page.html).
+# Publications
+## Journal Articles
+- [Article Name](link-to-article)
 
-There should be whitespace between paragraphs.
+## Conference Papers
+- Title of Conference Paper
+- Title of Conference Paper
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Teaching
+I am committed to providing high-quality education and have designed and taught various courses and workshops, including:
+- Data Analysis with Python and R
+- Introduction to Machine Learning
+- Creating Academic Websites for Graduate Students
+- LaTeX Tutorials
 
-# Header 1
+# Contact
+If you would like to get in touch with me, please feel free to reach out through the following methods:
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Email:** [your-email@example.com](mailto:your-email@example.com)
 
-## Header 2
+**Office:** Room number, Building name, GSU
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Phone:** (123) 456-7890
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+**Social Media:**
+- [LinkedIn](your-linkedin-profile)
+- [Twitter](your-twitter-profile)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
